@@ -1,0 +1,4 @@
+.elementor-widget-wpmproducts .woocommerce .products ul,
+.elementor-widget-wpmproducts .woocommerce ul.products {
+	margin-bottom: 0;
+}
